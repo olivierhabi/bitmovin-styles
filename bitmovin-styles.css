@@ -5,7 +5,7 @@
 .bmpui-ui-settingstogglebutton.bmpui-off{
     display: none !important;
 }
-.bmpui-ui-volumetogglebutton.bmpui-muted{
+.bmpui-ui-volumetogglebutton.bmpui-unmuted{
     display: none !important;
 }
 .bmpui-ui-airplaytogglebutton.bmpui-off{
