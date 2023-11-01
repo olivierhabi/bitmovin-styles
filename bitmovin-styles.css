@@ -1,3 +1,7 @@
-.bmpui-seekbar-backdrop {
-    background-color: orange !important;
+.bmpui-seekbar-playbackposition{
+    background-color: "#E50914" !important
+}
+
+.bmpui-ui-settingstogglebutton.bmpui-off{
+    display: none !important;
 }
